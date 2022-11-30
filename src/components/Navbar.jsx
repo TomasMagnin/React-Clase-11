@@ -15,6 +15,7 @@ export default function Navbar() {
             <NavLink to="/">Quienes Somos</NavLink>
             <NavLink to="/">Contactos</NavLink>
             <NavLink to="/"></NavLink>
+            <NavLink to="/test">Tstes Render</NavLink>
         
     
 

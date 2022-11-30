@@ -8,6 +8,7 @@ import ItemList from "./ItemList";
 
 export default function ItemListContainer({}) {        
 
+  console.log("Rendfer de Item List Container");
 
 
   const { idcategory } = useParams();                   /*  Sacamos el ID de categoria de la URL */
